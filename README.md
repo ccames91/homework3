@@ -9,7 +9,7 @@ project showcases how to automatically generate a paswword with a options prompt
 
 
 Website has been deployed using GitHub pages and can be reached through below link,
-https://ccames91.github.io/MealWorms/
+https://ccames91.github.io/homework3/
 
 ## Reference
 
